@@ -1,1 +1,14 @@
-
+EmployeeID,Name,Age,Gender,Department,Salary,Experience
+101,Alice,25,Female,HR,45000,2
+102,Bob,30,Male,IT,60000,5
+103,Charlie,,Male,Finance,55000,4
+104,David,28,Male,IT,,3
+105,Eva,26,Female,HR,47000,2
+106,Frank,35,Male,Finance,72000,8
+107,Grace,29,Female,Marketing,52000,4
+108,Helen,27,Female,Marketing,51000,3
+109,Ian,30,Male,IT,60000,5
+109,Ian,30,Male,IT,60000,5
+110,Jack,twenty-eight,Male,HR,49000,3
+111,Kate,31,Female,,65000,6
+112,Luke,33,Male,Finance,70000,
